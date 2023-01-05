@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+img{
+    padding: 2em;
+}
+
+#restart{
+    display: none;
+}
